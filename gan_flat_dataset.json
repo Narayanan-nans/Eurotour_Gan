@@ -1,0 +1,945 @@
+[
+
+  {
+    "country": "Paris",
+    "interest": "Art",
+    "description": "Musee du Louvre : Mona Lisa  check out the Winged Victory of Samothrace, Liberty Leading the People, and the sculptures in the Cour Marly.",
+    "price": 12342,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "Paris",
+    "interest": "Art",
+    "description": " Musee d'Orsay Housed in a gorgeous Beaux-Arts railway station. If you're into Impressionism and Post-Impressionism (Monet, Van Gogh, Renoir), this is your place.",
+    "price": 18703,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "Art",
+    "description": "Centre Pompidou Modern and contemporary art with a killer view of Paris from the top. Its inside-out architecture is iconic.",
+    "price": 13412,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "nightlife",
+    "description": "Moulin Rouge :Iconic and world-famous, the Moulin Rouge offers dazzling cabaret shows with music, dancing, and artful costumes. The red windmill on the rooftop glows at night, and the whole area is buzzing with life. It's both a historical monument and an unforgettable night out.                                                                                                      Le Comptoir G'n'ral                                                    An offbeat, artsy bar tucked away near the canal \u2014 part museum, part lounge. Think vintage furniture, African art, creative cocktails, and a chill crowd. In spring, the canal-side walk to get here is romantic and full of energy.                    Wanderlust:                                                                   Located on the banks of the Seine with an open terrace, this is a hotspot for electro music, art events, pop-ups, and riverside dancing. In spring and summer, it becomes an outdoor nightlife paradise \u2014 part nightclub, part creative space.",
+    "price": 14572,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "Food",
+    "description": "Du Pain et des Id (10th arr.):Legendary croissants, pistachio escargot pastry, and pain des amis bread. Go early \u2014 they sell out fast.",
+    "price": 14033,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "Paris",
+    "interest": "Food",
+    "description": "La Maison d'Is belle (Latin Quarter):Award-winning butter croissants. Perfect for a sunny morning stroll.                             Le Pavillon des Canaux (Canal de l'Ourcq)",
+    "price": 19206,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "adventure sports",
+    "description": "Tree-Top Ziplining at AccroCamp (Rueil-Malmaison):Swing through treetops, zipline across clearings, and test your balance on rope bridges.",
+    "price": 19833,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "adventure sports",
+    "description": "Kayaking on the Marne River:Paddle through leafy, calm stretches of the Marne with charming riverside villages and old-school guinguette caf's you can dock at.",
+    "price": 16133,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "photography",
+    "description": "Jardin du Luxembourg:A classic Parisian escape. This vast garden is filled with tree-lined promenades, fountains, blooming flowerbeds, and statues. You can sit by the Medici Fountain, read a book in one of the iconic green chairs, or just watch the sailboats drift in the pond. The soft light in spring makes it picture-perfect. ",
+    "price": 14396,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "Paris",
+    "interest": "photography",
+    "description": "Albert Kahn Garden: A hidden oasis in Boulogne-Billancourt, just outside central Paris. The gardens are laid out in styles from around the world Japanese, English, French and are absolutely magical in spring. There's also a museum with photography and peaceful exhibits.",
+    "price": 17899,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "beaches",
+    "description": "Plage de Pampelonne (Saint-Tropez) :Famous for beach clubs like Club 55. Clear turquoise water, fine sand, A-list spotting.",
+    "price": 17381,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "beaches",
+    "description": "Paloma Beach (Saint-Jean-Cap-Ferrat):Hidden cove with calm, clear waters and rocky cliffs.",
+    "price": 15886,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "Food",
+    "description": "Salade Nioise Le Petit Cler:Their Salade Ni\u00e7oise is authentic, fresh, and you can enjoy it on a cute outdoor terrace.",
+    "price": 17630,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "Paris",
+    "interest": "Food",
+    "description": "Plateau de Fruits de Mer Le Bar Hueetres:Super fresh oysters, lobster, shrimp, mussels all beautifully plated on ice.",
+    "price": 13560,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "Food",
+    "description": "Tarte aux Fraises  Stohrer:Paris' oldest petisserie (since 1730) and still one of the best",
+    "price": 16758,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "Paris",
+    "interest": "Market and shopping",
+    "description": "March' des Enfants Rouges:Pick up fresh produce, cheeses, and pastries, or grab lunch and eat at communal tables under the market's roof. Perfect for a summer picnic.",
+    "price": 15117,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "Paris",
+    "interest": "Market and shopping",
+    "description": "Le Marais (Shopping District):this area has a mix of old-world Parisian charm and modern edge. Don't miss the adorable Merci Concept Store for unique home goods and fashion.",
+    "price": 14483,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "Paris",
+    "interest": "Market and shopping",
+    "description": " March' Bastille:The Food section is amazing for picking up summer fruits, artisanal cheeses, and baked goods. It's perfect for a summer stroll and snacking.",
+    "price": 15107,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "The National Gallery (Trafalgar Square): Home to masterpieces by Van Gogh, Da Vinci, Turner, and more.",
+    "price": 14604,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Tate Modern (Bankside): Modern and contemporary art in a repurposed power station.",
+    "price": 18151,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Saatchi Gallery (Chelsea): Cutting-edge contemporary works and emerging artists.",
+    "price": 19167,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Royal Academy of Arts (Piccadilly): Exhibitions by world-renowned and up-and-coming artists.                                          St. Paul's Cathedral: Designed by Sir Christopher Wren, with a breathtaking dome.",
+    "price": 17686,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "The Shard: Western Europe's tallest building and a modern icon.",
+    "price": 12656,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Westminster Abbey: A gothic masterpiece, the site of coronations and royal weddings.                                                ower of London: Historic fortress, home of the Crown Jewels and tales of royal intrigue.",
+    "price": 14333,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Hampton Court Palace: Henry VIII opulent riverside residence with stunning gardens.",
+    "price": 19720,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Art",
+    "description": "Windsor Castle (just outside London): The Queen's weekend residence and the world's oldest inhabited castle.",
+    "price": 19818,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "museum ",
+    "description": "The British Museum:Great Russell Street, Bloomsbury,One of the world's most famous museums, housing over 8 million works of art and artifacts from ancient civilizations, including the Rosetta Stone and Egyptian mummies.",
+    "price": 16518,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "museum",
+    "description": "The Tower of London :Tower Hill ,Steeped in over 1,000 years of history, the Tower of London is a fortress, royal palace, and prison. It's home to the Crown Jewels and offers a fascinating look at royal history, executions, and the lives of the famous Beefeaters.",
+    "price": 13379,
+    "time_of_day": "Morning"
+  },
+ 
+  {
+    "country": "LONDON",
+    "interest": "museum ",
+    "description": "Natural History Museum:Cromwell Road, South Kensington ,A stunning building with exhibits on everything from dinosaurs to meteorites and human evolution. It's perfect for anyone interested in the natural world and is a family favorite.",
+    "price": 16755,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "photography",
+    "description": "Kew Gardens:A vast botanical garden with exotic plants, glasshouses, and tranquil walking paths perfect for peaceful nature photography.",
+    "price": 17358,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "photography",
+    "description": "Hyde Park:One of London's largest parks featuring lakes, flower gardens, and open green space ideal for strolling, boating, and relaxed photography.",
+    "price": 14627,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "photography",
+    "description": "Kyoto Garden (Holland Park):A serene Japanese-style garden with koi ponds and waterfalls, offering a quiet retreat and photogenic landscapes.",
+    "price": 13239,
+    "time_of_day": "Afternoon"
+  },
+ 
+  {
+    "country": "LONDON",
+    "interest": "photography",
+    "description": "Primrose Hill:A gentle hilltop providing stunning panoramic views of London's skyline, especially magical at sunset.",
+    "price": 13933,
+    "time_of_day": "Morning"
+  },
+  
+  {
+    "country": "LONDON",
+    "interest": "Food ",
+    "description": "Borough Market:8 Southwark Street, SE1,One of London's oldest and most iconic Food markets, offering everything from gourmet cheeses, meats, and pastries to global street Food.",
+    "price": 17700,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "Food ",
+    "description": "Camden Market:Camden Lock Place, NW1,Camden is known for its quirky vibe, and its Food scene is no exception. The market has Food stalls serving everything from Korean BBQ to vegan burgers.Must try: Bacon or vegetarian mac & cheese or a pork belly bao bun.",
+    "price": 18614,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Food ",
+    "description": "Street Feast (Lewisham or Shoreditch):This evening street Food market is perfect if you want to grab a bite with a great atmosphere. It's often located in cool, industrial spaces with bars and live music.Must try: Burgers, tacos, and Vietnamese  plus plenty of craft beer to wash it down.",
+    "price": 19244,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "nightlife",
+    "description": "Must try: The Nightjar for exceptional cocktails (one of the best speakeasy bars in the city), or XOYO, a top club for house and techno beats.",
+    "price": 12159,
+    "time_of_day": "Morning"
+  },
+  {
+
+    "country": "LONDON",
+    "interest": "nightlife",
+    "description": " Soho: The Iconic Party Central, A vibrant, bustling area known for its LGBTQ+ friendly atmosphere and a variety of bars, clubs, and cabarets.",
+    "price": 17122,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "nightlife",
+    "description": " Brixton Music & Alternative Culture:A lively, eclectic area full of vibrant bars, clubs, and live music venues. It's the place for those looking to experience London's alternative music scene.",
+    "price": 17852,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Cultural heritage",
+    "description": "Notting Hill Carnival:The Notting Hill Carnival is one of the world's largest street festivals celebrating Caribbean culture. It's a vibrant explosion of music, dance, and Food with colorful parades and live performances.",
+    "price": 19104,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Cultural heritage",
+    "description": "London Film Festival:The BFI London Film Festival is the UK's largest public film event, showcasing the best in world cinema and featuring films, documentaries, and shorts from global filmmakers.",
+    "price": 13496,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "Cultural heritage",
+    "description": "London's Open House Weekend:This is a unique chance to explore London's most iconic historical buildings, cultural landmarks, and hidden gems. The event opens the doors to over 800 buildings that are usually closed to the public.",
+    "price": 19628,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Shopping & Market",
+    "description": "Oxford Street:London's most iconic shopping destination with hundreds of fashion, beauty, and tech stores.",
+    "price": 19564,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Shopping & Market",
+    "description": "Regent Street & Carnaby Street:A stylish mix of flagship stores and unique boutiques, perfect for fashion lovers and trend seekers.",
+    "price": 16835,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "LONDON",
+    "interest": "Shopping & Market",
+    "description": "Covent Garden:An elegant hub with boutique shops, craft stalls, and live performances in a historic piazza.",
+    "price": 15110,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "LONDON",
+    "interest": "Shopping & Market",
+    "description": "King's Road, Chelsea:Chic and upscale with designer stores, home decor boutiques, and stylish cafes.",
+    "price": 12050,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "ROME",
+    "interest": "Art",
+    "description": "Vatican Museums & Sistine Chapel,Vatican City,Home to one of the world's most important art collections, including works by Michelangelo, Raphael, and Leonardo da Vinci. The Sistine Chapel, with Michelangelo's famous ceiling, is a must-see.",
+    "price": 13473,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "Art",
+    "description": "Castel Sant'Angelo:Lungotevere Castello, Originally built as a mausoleum for Emperor Hadrian, this castle has been used as a fortress, papal residence, and now a museum. Its impressive architecture and history make it a must-see.",
+    "price": 19137,
+    "time_of_day": "Evening"
+  },
+  
+  {
+    "country": "ROME",
+    "interest": "Art",
+    "description": " Pantheon:Piazza della Rotonda,One of Rome's best-preserved ancient monuments, the Pantheon is a marvel of Roman engineering. Its massive dome, which was the largest in the world for over 1,300 years, is an architectural masterpiece.",
+    "price": 17994,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "museums",
+    "description": "Colosseum Ancient: Roman amphitheater used for gladiatorial contests and public spectacles.",
+    "price": 18119,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "ROME",
+    "interest": "museums",
+    "description": "Roman Forum : The heart of ancient Rome, filled with ruins of temples, government buildings, and markets.",
+    "price": 12649,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "museums",
+    "description": "Pantheon : Well-preserved ancient Roman temple with a magnificent dome, now a church.",
+    "price": 19970,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "museums",
+    "description": "Capitoline Museums : Museum complex showcasing Roman statues, Renaissance art, and historical artifacts, located on Capitoline Hill.",
+    "price": 13739,
+    "time_of_day": "Evening"
+  },
+  
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Villa Borghese Gardens : A large public park with beautiful landscaping, lakes, and gardens. Perfect for leisurely walks, relaxation, and photography. You can also rent a bike or a boat to explore the area.",
+    "price": 18956,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Gianicolo Hill (Janiculum Hill) : A peaceful area with panoramic views of Rome. It's less crowded and offers beautiful scenery for photography, especially during sunset.",
+    "price": 14103,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Villa Doria Pamphili : A tranquil, expansive park with lush greenery, fountains, and ponds. It's a great spot for a peaceful escape from the city, ideal for relaxation and nature photography.",
+    "price": 18042,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Orto Botanico (Botanical Garden) : A serene botanical garden located near Trastevere. It's home to various plant species, including Mediterranean flora, and offers peaceful surroundings for relaxation and photography.",
+    "price": 13636,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Appia Antica (The Appian Way) : A historic road surrounded by nature, ancient ruins, and countryside views. Perfect for walking or cycling, and there are plenty of picturesque spots to capture nature and history together.",
+    "price": 14961,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Tiber Island : A small island in the Tiber River with calm surroundings and lovely views of the river. It's a quiet spot to relax and take photos of the city from a different perspective.",
+    "price": 13969,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Piazza del Popolo and Villa Borghese Pincio Terrace : For beautiful city views and relaxed moments, head to the Pincio Terrace above Piazza del Popolo. It's a great place to unwind and photograph the city skyline.",
+    "price": 14385,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "natural,photography",
+    "description": "Parco degli Acquedotti : A less-known park located on the outskirts of Rome, where you can explore ancient Roman aqueducts surrounded by open fields. It's a peaceful escape with fantastic photo opportunities.",
+    "price": 16276,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "Food",
+    "description": " Pizzarium:Via della Meloria, 43,Pizzarium is famous for its \"pizza al taglio\" (pizza by the slice), where you can choose from an array of toppings on thick, crispy, focaccia-style pizza. The quality of the ingredients is top-notch.",
+    "price": 14461,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "Food",
+    "description": "Trapizzino:Trapizzino serves up a unique Roman street Food \u2014 a hybrid of a sandwich and pizza, with soft pizza dough shaped into a pocket and filled with traditional Roman stews and meats",
+    "price": 17378,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "ROME",
+    "interest": "Food",
+    "description": " Supplee Roma Piazza San Cosimato, Trastevere:The classic supply al telefono (filled with mozzarella) or try other variations with ragu or vegetables.",
+    "price": 13884,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "ROME",
+    "interest": "nightlife",
+    "description": "Trastevere : A charming neighborhood with narrow cobblestone streets, lively piazzas, and a variety of bars and restaurants. It's one of the most popular areas for both locals and tourists to enjoy a night out. You can enjoy everything from cozy wine bars to vibrant pubs.",
+    "price": 13613,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "nightlife",
+    "description": "Campo de' Fiori : Known for its bustling atmosphere, Campo de' Fiori is home to many outdoor bars and restaurants. It's a great place to grab a drink with friends and enjoy the lively crowd. In the evenings, it becomes a hub for both locals and visitors.",
+    "price": 15555,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "nightlife",
+    "description": "Monti : This trendy district offers an eclectic mix of cocktail bars, pubs, and chic cafes. It's perfect for a relaxed evening with a creative drink or an intimate dinner.",
+    "price": 14271,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "ROME",
+    "interest": "nightlife",
+    "description": "Testaccio : Famous for its vibrant club scene, Testaccio is the place to go if you want to experience Rome's nightlife to the fullest. The area is home to clubs, late-night bars, and eateries that cater to a young crowd, often with live music or DJ sets.",
+    "price": 12464,
+    "time_of_day": "Evening"
+  },
+  
+  {
+    "country": "ROME",
+    "interest": "Shopping & Market",
+    "description": "Via del Corso: Via del Corso is one of Rome's main shopping streets, lined with both international brands and Italian fashion stores. If you love shopping for clothing, shoes, and accessories, this street is a go-to destination.",
+    "price": 13370,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "ROME",
+    "interest": "Shopping & Market",
+    "description": "2. Campo de' Fiori Market:Piazza Campo de' Fiori,This lively open-air market is one of the oldest in Rome, and it's perfect for picking up fresh produce, local ingredients, flowers, and artisan goods. While it's famous for Food, it's also a great spot for finding unique trinkets and souvenirs.",
+    "price": 14756,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "ROME",
+    "interest": "Shopping & Market",
+    "description": "Via dei Condotti:High-fashion shopping for those wanting to splurge on luxury Italian brands. Even if you're just window-shopping, it's an experience!",
+    "price": 14578,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "ROME",
+    "interest": "Cultural heritage",
+    "description": "Rome Film Fest :Description: A prestigious international film festival held every October. It features a selection of international films, documentaries, and short films. The event attracts filmmakers, celebrities, and film enthusiasts from around the world.",
+    "price": 16331,
+    "time_of_day": "Evening"
+  },
+ 
+  {
+    "country": "ROME",
+    "interest": "Cultural heritage",
+    "description": " Natale di Roma:Description: A celebration of the founding of Rome, this festival commemorates the day when the city was founded in 753 BC. Events include historical reenactments, parades with Roman soldiers, and performances that showcase ancient Roman customs.",
+    "price": 12026,
+    "time_of_day": "Morning"
+  },
+ 
+  {
+    "country": "ROME",
+    "interest": "Cultural heritage",
+    "description": "Festa della Repubblica :Description: Italy's National Day, commemorating the founding of the Italian Republic. The day includes military parades, air shows, and ceremonies at key locations such as the Altare della Patria.",
+    "price": 18797,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "Cultural heritage",
+    "description": "Estate Romana :Description: A summer-long cultural festival that offers a variety of free and paid events, including concerts, outdoor cinema screenings, theater performances, and street art festivals. It's a great way to experience Rome's artistic scene.",
+    "price": 18235,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "ROME",
+    "interest": "adventure sports",
+    "description": "Cycling Tours (Rome by Bike): Rome's historic streets and picturesque landscapes make for the perfect cycling adventure. You can bike through ancient ruins, past the Colosseum, and explore hidden corners of the city.",
+    "price": 12570,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "adventure sports",
+    "description": "Rock Climbing at Via Ferrata:Rome and its surrounding areas offer some great rock climbing spots, including Via Ferrata routes in nearby mountains. You'll experience a thrilling climb with metal cables, ladders, and bridges to guide you up the rocky terrain.",
+    "price": 17951,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "ROME",
+    "interest": "adventure sports",
+    "description": "Kayaking on the Tiber River:Kayaking on the Tiber River is a unique way to explore Rome's ancient cityscape from the water. It's a calm but thrilling activity that lets you glide by key landmarks like Castel Sant'Angelo and St. Peter's Basilica.",
+    "price": 15406,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Art",
+    "description": "La Sagrada Fami'lia:Carrer de Mallorca, 401,One of the most famous architectural marvels in the world, La Sagrada Fami'lia is a masterpiece by the architect Antoni Gaudi'. The basilica's unique design, combining Gothic and Art Nouveau forms, is unlike anything you've ever seen.",
+    "price": 15763,
+    "time_of_day": "Morning"
+  },
+  
+  {
+    "country": "BARCELONA",
+    "interest": "Art",
+    "description": "Park G\u00fcell:Carrer d'Olot, 5,Another of Gaudi''s masterpieces, Park G\u00fcell is an iconic public park known for its colorful mosaics, serpentine bench, and whimsical architectural designs. It was originally intended to be a residential development, but now it's a fantastic open space for visitors to explore.",
+    "price": 17145,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Art",
+    "description": " Montjui' Castle (Castell de Montjui'):Carretera de Montjui', 66,Montjui' Castle is a historical military fortress perched on a hill overlooking the city and the Mediterranean Sea. It has a fascinating history and offers fantastic views of Barcelona. The castle also hosts art exhibitions and cultural events.",
+    "price": 19568,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "BARCELONA",
+    "interest": "museums",
+    "description": "La Sagrada Fami'lia:Description: Designed by the famous architect Antoni Gaudi', this unfinished basilica is one of the most iconic landmarks in Barcelona. Known for its intricate architecture and stunning facades, it is a UNESCO World Heritage site and an important symbol of the city.",
+    "price": 19765,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "museums",
+    "description": "The Gothic Quarter (Barri G\u00f2tic):Description: This historic neighborhood is a maze of narrow medieval streets filled with hidden squares, charming shops, and cafes. Highlights include the Barcelona Cathedral, the Pla\u00e7a del Rei (Royal Square), and the ancient Roman walls that once protected the city.",
+    "price": 16345,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "",
+    "description": " Museu Picasso (Picasso Museum):Description: Dedicated to the works of Pablo Picasso, this museum houses one of the most extensive collections of his artwork, particularly from his formative years. It gives great insight into the development of Picasso's style and his ties to Barcelona.",
+    "price": 16827,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "BARCELONA",
+    "interest": "photography",
+    "description": "Park G\u00fcell:Description: Designed by Antoni Gaudi', this park is a colorful and whimsical space featuring lush gardens, fascinating architectural structures, and panoramic views of the city. It's perfect for both relaxation and photography, with vibrant mosaics and serene spots.",
+    "price": 18479,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "photography",
+    "description": "Montjui' Hill:Description: Montjui' offers green spaces, gardens, and spectacular views of the city and the Mediterranean. You can visit the Montjui' Botanical Gardens, enjoy peaceful walks through the area, or relax in one of its many viewpoints. The hill also features the beautiful Jardins de Joan Miri' and the Miri' Foundation, ideal for peaceful retreats.",
+    "price": 18324,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "photography",
+    "description": "Barcelona's Beaches (Barceloneta Beach):Description: Barcelona is known for its beautiful Mediterranean coastline. The Barceloneta Beach offers a great place to relax by the sea, enjoy a peaceful moment, or capture stunning photos of the beach and sunset. It's also ideal for a leisurely stroll along the promenade.",
+    "price": 16448,
+    "time_of_day": "Morning"
+  },
+  
+  {
+    "country": "BARCELONA",
+    "interest": "Food,",
+    "description": "La Boqueria Market (Mercat de Sant Josep de la Boqueria),La Rambla, 91,La Boqueria is one of the most famous markets in the world. It's an explosion of colors, smells, and flavors with fresh produce, meats, seaFood, cheeses, and spices. This is the perfect spot to taste local ingredients and enjoy quick bites or traditional Spanish Foods.",
+    "price": 19356,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Food,",
+    "description": "2. El Quim de la Boqueria",
+    "price": 15274,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Food,",
+    "description": "La Boqueria Market, La Rambla, 91,Located inside La Boqueria Market, El Quim is a small but famous spot to enjoy delicious Catalan tapas and seaFood dishes, served right at the counter. It's known for its high-quality ingredients and flavorful dishes.",
+    "price": 18582,
+    "time_of_day": "Afternoon"
+  },
+  
+  {
+    "country": "BARCELONA",
+    "interest": "Food,",
+    "description": "Cerveceri'a Catalana,Carrer de Mallorca, 236,Cerveceri'a Catalana is a popular spot for tapas and local specialties in a casual and lively atmosphere. It's perfect for a long lunch with friends or family, offering both traditional and contemporary tapas.",
+    "price": 19260,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "nightlife",
+    "description": "El Born District:Description: This trendy neighborhood is home to a range of stylish bars, cocktail lounges, and cozy tapas spots. Whether you're looking for a relaxed drink or a lively atmosphere, El Born offers a variety of options. It's perfect for a night of bar hopping.",
+    "price": 12344,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "nightlife",
+    "description": "Poble Sec:Known for its fantastic tapas bars and laid-back vibes, Poble Sec offers an eclectic mix of bars, from traditional Spanish spots to modern craft beer places. The area around Carrer de Blai is particularly famous for its pintxos bars.",
+    "price": 19208,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "nightlife",
+    "description": "Raval District: Raval is one of Barcelona's most diverse and dynamic neighborhoods. Here, you'll find a mix of alternative bars, live music venues, and edgy clubs. It's a great area if you want a mix of local flavor and international culture. The area near Carrer de Joaqui'n Costa has some of the best late-night spots.",
+    "price": 18788,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "shopping,markets",
+    "description": "La Boqueria Market (Mercat de Sant Josep de la Boqueria): One of Barcelona's most famous markets, La Boqueria offers an incredible variety of fresh produce, meats, seaFood, and local delicacies. It's also a great spot for grabbing a quick bite at one of the Food stalls or enjoying local tapas.",
+    "price": 19884,
+    "time_of_day": "Afternoon"
+  },
+  
+  {
+    "country": "BARCELONA",
+    "interest": "shopping,markets",
+    "description": "Mercat de Sant Antoni:A large, bustling market that offers fresh produce, meats, and cheeses, as well as a vintage and second-hand market on Sundays. It's also a great spot for finding clothing, books, and antiques. The market is housed in a beautiful modernist building, making it an architectural treat as well.",
+    "price": 16318,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "shopping,markets",
+    "description": "El Corte Ingl's:Spain's largest department store chain, El Corte Ingl's offers a wide selection of clothing, accessories, home goods, electronics, and cosmetics. Its flagship store in Pla\u00e7a de Catalunya is the largest and most popular, with multiple floors of shopping.",
+    "price": 19442,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Cultural heritage",
+    "description": "Primavera Sound Festival:One of Europe's most famous music festivals, Primavera Sound brings together a diverse lineup of indie, rock, electronic, and pop music from around the world. It's a major highlight for music lovers.",
+    "price": 18506,
+    "time_of_day": "Evening"
+  },
+ 
+  {
+    "country": "BARCELONA",
+    "interest": "Cultural heritage",
+    "description": "Festa de Sant Joan (Festival of St. John):This festival celebrates the arrival of summer with bonfires, fireworks, and beach parties. It's one of the most lively and popular festivals in Barcelona, where locals celebrate the longest day of the year.",
+    "price": 17437,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "Cultural heritage",
+    "description": " La Merc\u00e8 Festival:La Merc\u00e8 is Barcelona's biggest annual festival, dedicated to the city's patron saint. It features street parades, concerts, fireworks, and traditional Catalan activities like the castellers (human towers) and sardana dancing.",
+    "price": 12419,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "adventure sports",
+    "description": " Windsurfing and Kitesurfing:Barcelona's coastal location makes it an excellent spot for windsurfing and kitesurfing. The beaches around the city, especially Platja de la Barceloneta and Platja de Castelldefels, offer ideal conditions for these thrilling water sports, with consistent winds and warm waters.",
+    "price": 13078,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "BARCELONA",
+    "interest": "adventure sports",
+    "description": "Surfing:Surfing is popular on Barcelona's beaches, particularly at Barceloneta, Maremagnum, and Ocata Beach. The Mediterranean doesn't produce the same big waves as the Atlantic, but there are plenty of smaller, fun waves suitable for both beginners and intermediate surfers.",
+    "price": 17702,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "BARCELONA",
+    "interest": "adventure sports",
+    "description": "Paragliding:For stunning aerial views of Barcelona and its coastline, try paragliding. You'll take off from the hills surrounding the city, soaring over beautiful landscapes, beaches, and historic landmarks. It's a thrilling way to experience the city from above.",
+    "price": 12395,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Art",
+    "description": "The Rijksmuseum:The Rijksmuseum is one of the most iconic art museums in the world, housing an extensive collection of Dutch art and history. It's home to masterpieces by Rembrandt and Vermeer, among other Dutch Golden Age artists.",
+    "price": 12124,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Art",
+    "description": "Muiderslot Castle: Muiden, 15 km outside of Amsterdam,Muiderslot is one of the most beautiful and best-preserved castles in the Netherlands, dating back to the 13th century. It's located just outside Amsterdam and offers a glimpse into medieval life with its well-preserved architecture, moats, and gardens.",
+    "price": 14009,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Art",
+    "description": "Van Gogh Museum:Dedicated to the life and works of Vincent van Gogh, this museum holds the largest collection of his paintings in the world. It provides an in-depth look at his evolution as an artist, from his early works to his final, most famous pieces.",
+    "price": 17199,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "museums",
+    "description": "Museu Picasso:This museum houses one of the most extensive collections of artwork by the famous artist Pablo Picasso. It offers a glimpse into Picasso's early years, showcasing his development as an artist and his connection to the city.",
+    "price": 14582,
+    "time_of_day": "Morning"
+  },
+ 
+  {
+    "country": "AMSTERDAM",
+    "interest": "museums",
+    "description": "Museu Nacional d'Art de Catalunya (MNAC):Located in the stunning Palau Nacional, this museum boasts a vast collection of Romanesque, Gothic, Renaissance, and Baroque art, with a particular emphasis on Catalan art. It's also home to a remarkable collection of modern art, including works by renowned artists like Ramon Casas and Joaqui'n Mir.",
+    "price": 13349,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "museums",
+    "description": "The Barcelona History Museum (MUHBA): The MUHBA is dedicated to the history of Barcelona, showcasing the city's evolution from its origins as a Roman settlement to the modern era. The museum has various sites, including the Roman walls and Vila de Madrid archaeological site.",
+    "price": 14386,
+    "time_of_day": "Evening"
+  },
+ 
+  {
+    "country": "AMSTERDAM",
+    "interest": "photography",
+    "description": "Park G\u00fcell: This iconic park designed by Antoni Gaudi' offers a perfect blend of nature and art. The lush gardens, unique architecture, and panoramic views of Barcelona provide endless opportunities for photography.",
+    "price": 14974,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "photography",
+    "description": " Montjui' :HillMontjui' Hill is a great spot for both relaxation and nature. With its gardens, parks, and historic landmarks like Montjui' Castle, it's a perfect place to unwind while enjoying breathtaking views of the city and the Mediterranean Sea.",
+    "price": 18064,
+    "time_of_day": "Morning"
+  },
+  
+  {
+    "country": "AMSTERDAM",
+    "interest": "photography",
+    "description": "Parc de la Ciutadella:Parc de la Ciutadella is one of Barcelona's most beautiful green spaces. The park offers a large lake, lovely walking paths, lush gardens, and a majestic fountain designed by Gaudi'.",
+    "price": 13424,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Food",
+    "description": "Patatas Bravas:One of Barcelona's most beloved street Foods, patatas bravas are crispy fried potatoes served with a spicy tomato-based sauce and a dollop of garlicky aioli. It's a perfect snack to grab while walking around the city.",
+    "price": 19013,
+    "time_of_day": "Evening"
+  },
+  
+  {
+    "country": "AMSTERDAM",
+    "interest": "Food",
+    "description": "Bocadillo de Calamares (Fried Squid Sandwich):This simple but delicious sandwich features crispy fried squid rings served in a crusty baguette, often with a squeeze of lemon. It's a popular choice for a quick lunch or snack in the coastal areas of Barcelona.",
+    "price": 17665,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Food",
+    "description": "Churros with Chocolate:A classic Spanish treat, churros are fried dough pastries, typically served with a cup of thick, rich hot chocolate for dipping. They're perfect for breakfast or as an afternoon snack.",
+    "price": 14852,
+    "time_of_day": "Evening"
+  },
+  
+  {
+    "country": "AMSTERDAM",
+    "interest": "nightlife",
+    "description": "Pacha Barcelona:Pacha is one of the most famous clubs in Barcelona, located right by the beach. Known for its legendary parties and international DJs, this nightclub brings the Ibiza party vibe to the city.",
+    "price": 19276,
+    "time_of_day": "Morning"
+  },
+  
+  {
+    "country": "AMSTERDAM",
+    "interest": "nightlife",
+    "description": " El Born : Cocktail Bars and Tapas,Cozy bars like Bobby's Free, where you can enjoy expertly crafted cocktails, or Paradiso, which is known for its secret entrance and innovative drinks. You can also enjoy traditional Spanish tapas at nearby bars.",
+    "price": 13508,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "nightlife",
+    "description": "Razzmatazz:For music lovers, Razzmatazz is a must-visit. This iconic venue is known for hosting live performances from top international bands and artists, along with an exciting clubbing experience.",
+    "price": 12426,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "shopping,markets",
+    "description": " La Boqueria Market (Mercat de Sant Josep de la Boqueria):One of the most famous and iconic markets in Barcelona, La Boqueria is located along La Rambla. It's a must-visit for Food lovers, with vendors selling fresh produce, meats, seaFood, cheeses, and prepared Foods. ",
+    "price": 14676,
+    "time_of_day": "Evening"
+  },
+
+  {
+    "country": "AMSTERDAM",
+    "interest": "shopping,markets",
+    "description": " El Corte Ingl's:A Spanish department store chain, El Corte Ingl's is perfect for a one-stop shopping experience. It offers a wide variety of goods, including fashion, beauty products, electronics, gourmet Food, and home goods. The Plaza de Catalunya location is the largest.",
+    "price": 17297,
+    "time_of_day": "Morning"
+  },
+ 
+  {
+    "country": "AMSTERDAM",
+    "interest": "Cultural heritage",
+    "description": " La Merc\u00e8 Festival:La Merc\u00e8 is Barcelona's largest and most important annual festival, celebrating the city's patron saint, La Mare de D'u de la Merc\u00e8. It's a fantastic showcase of Catalan culture, with parades, traditional music, fireworks, and performances.",
+    "price": 15877,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Cultural heritage",
+    "description": "Festes de Gr\u00e0cia:This festival takes place in the charming Gr\u00e0cia neighborhood and is one of the most colorful and creative festivals in Barcelona. The streets are beautifully decorated by the local residents, and there are countless activities such as concerts, workshops, and competitions.",
+    "price": 17088,
+    "time_of_day": "Evening"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "Cultural heritage",
+    "description": "Carnaval de Barcelona: Barcelona's version of Carnival is a colorful and fun celebration before Lent. It's filled with parades, costumes, music, and street parties. While the carnival is more widely celebrated in other parts of Spain, Barcelona's celebrations have their own unique charm.",
+    "price": 16676,
+    "time_of_day": "Afternoon"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "adventure sports",
+    "description": "Rock Climbing (Montjuec & Garraf Natural Park):Description: Barcelona is surrounded by natural rock formations and cliffs perfect for rock climbing. Montjuec Hill offers urban climbing with views of the city, while the nearby Garraf Natural Park has more challenging climbs with dramatic sea views.",
+    "price": 14412,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "AMSTERDAM",
+    "interest": "adventure sports",
+    "description": "Paragliding (Costa Brava & Collserola Natural Park):Description: Take to the skies and enjoy breathtaking views of Barcelona's coastline and countryside with paragliding. The Costa Brava region, just north of the city, offers some of the best conditions for paragliding, along with the Collserola Natural Park, which provides beautiful views of the city and surrounding mountains.",
+    "price": 15592,
+    "time_of_day": "Morning"
+  },
+  {
+    "country": "AMSTERDAM",
+    "interest": "adventure sports",
+    "description": " Windsurfing & Kitesurfing (Barceloneta Beach),Description: Barcelona's beaches are ideal for windsurfing and kitesurfing, especially in the Barceloneta Beach area. With regular winds and a vibrant local scene, this is the perfect place for beginners and advanced enthusiasts alike to practice their skills on the water.",
+    "price": 12337,
+    "time_of_day": "Afternoon"
+  },
+
+  {
+    "country": "AMSTERDAM",
+    "interest": "adventure sports",
+    "description": "Mountain Biking (Collserola & Montserrat),Description: Barcelona is surrounded by fantastic terrain for mountain biking, with Collserola Natural Park offering a range of trails, from easy rides to challenging routes with steep inclines and forest paths. For a more rugged experience, head to the Montserrat Mountain, where you can enjoy challenging mountain biking routes with stunning views.",
+    "price": 11107,
+    "time_of_day": "Morning"
+  },
+
+  {
+    "country": "AMSTERDAM",
+    "interest": "adventure sports",
+    "description": "Surfing (Barceloneta Beach):Description: The Mediterranean might not be as wild as the Atlantic, but Barcelona still offers excellent surfing conditions, especially for beginners. Barceloneta Beach is one of the best spots, with regular surf schools and rental equipment available for those looking to catch some waves.",
+    "price": 13608,
+    "time_of_day": "Morning"
+  }
+]
